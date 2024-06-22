@@ -1,4 +1,4 @@
-# YOUR PROJECT TITLE
+# MY CS50 Project - Gas Detector with Arduino
 #### Video Demo:  <https://youtu.be/7lMznUrV37k>
 #### Description:
 
