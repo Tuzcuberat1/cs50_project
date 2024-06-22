@@ -50,5 +50,5 @@ This Arduino sketch enables a gas monitoring system with a menu interface using 
   - Gas levels are displayed on the LCD and sent over Bluetooth.
 
 ## Notes
-- Ensure the Bluetooth module is paired with a receiving device (e.g., smartphone, PC) to view gas level data remotely.
+- Ensure the Bluetooth module is paired with a receiving device (MIT App Inventor app on phones) to view gas level data remotely.
 - Customize the threshold values and menu options as per specific application requirements by modifying the code.
